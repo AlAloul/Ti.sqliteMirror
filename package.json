@@ -1,0 +1,21 @@
+{
+  "name": "Ti.sqliteMirror",
+  "version": "1.0.0",
+  "description": "Module for mirroring a remote sqlite to an app",
+  "main": "de.appwerft.sqlitemirror.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Appcelerator",
+    "Titanium",
+    "sqlite"
+  ],
+   "titaniumManifest": {
+    "name": "Ti.sqliteMirror",
+    "moduleid": "de.appwerft.sqlitemirror",
+    "guid": "aa229178-ce87-afa8-c2bd-763da2be6e36"
+  },      
+  "author": "Rainer Schleevoigt",
+  "license": "ISC"
+}
